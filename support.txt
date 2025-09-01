@@ -1,0 +1,21 @@
+SheetCollector
+
+SheetCollectorPurpose: SheetCollector(formerly known as eTable Collector) is a powerful personal data assistant, designed for professionals in business and finance to collect, manage, and format table-based data on iOS, iPadOS, and macOS. It provides advanced tools to handle large datasets entirely offline, ensuring data security by storing everything locally.
+
+Key Features
+  • Unique table definitionn: The combination of the source table's filename and headers serves as a unique ID for managing tables in this app.
+  • Large Data Capacity: Capable of managing tables with more than 100,000 rows and over 1,000 columns.
+  • Multi-format Support: Accepts CSV, TSV, and JSON as input formats, and provides output options in CSV, PDF (A0-A5, portrait and landscape), and JPEG (A0-A5, portrait, landscape, and long single page).
+  • Offline and Secure: Prioritizes data security by keeping all data management local, allowing for full offline functionality without network access.
+
+Supported Platforms
+Compatible with iOS, iPadOS, and macOS.
+
+Technical Specifications
+  • Requires iOS 15, macOS 12 or later.
+  • Optimized for high performance and resource efficiency.
+  • Works offline with no need for network access, ensuring complete data privacy.
+
+Contact
+Have questions or need support?
+Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024

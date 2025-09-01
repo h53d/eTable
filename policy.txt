@@ -1,0 +1,23 @@
+Privacy Policy for SheetCollector
+Effective Date: 2025-09-01
+
+1. Introduction
+SheetCollectorSheetCollector(formerly known as eTable Collector) values your privacy and is committed to protecting your data. This Privacy Policy outlines how SheetCollector manages your data, including collection, storage, and security practices. By using SheetCollector, you agree to this policy.
+
+2. Data Collection
+SheetCollector does not collect, share, or transmit any personal or usage data. All data processed within the app remains locally stored on your device.
+
+3. Data Security
+Your data security is our priority. SheetCollector operates data offline, ensuring that all files and data are managed directly on your device, without external transmissions. Unless you enable sharing for this app or its data, all data is stored locally on your device.
+
+4. Access to Data
+The data you manage within SheetCollector, such as tables and file exports, is accessible only to you - unless you shared it to others. SheetCollector does not have any mechanism to remotely access, upload, or back up your data outside of your device.
+
+5. Offline Functionality
+SheetCollector is designed to function offline, there is no need for Internet connection, nor any background or hidden data transfer processes. This enhances both security and privacy by keeping all information on the device.
+
+6. Changes to the Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the effective date at the top of this policy. Continued use of SheetCollector after any modifications signifies acceptance of these changes.
+
+7. Contact Information
+If you have any questions regarding this Privacy Policy or data management practices within SheetCollector, please contact us at: danjian42@gmail.com.
